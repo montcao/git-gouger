@@ -17,7 +17,7 @@ Currently git-gouger checks:
 - Secret Scanning is enabled
 - Security.MD exists
 
-The goal is meant to help any developer or security engineer understand 
+The goal is to help any developer or security engineer understand what is enabled on any git repo. It can also be used as a tool to fit into a larger recon effort (for pentesters). 
 
 TODO:
 
